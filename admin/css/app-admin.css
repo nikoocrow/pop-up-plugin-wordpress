@@ -1,0 +1,24 @@
+.page-menu .card-body .btn-crear{
+    line-height: 15px;
+    padding: 8px 15px;
+}
+
+#wpcontent{
+    padding: 0;
+}
+
+.modal .modal-header .btn-close{
+    margin: 0px;
+}
+
+.modal .divider .line{
+    margin-top: 10px;
+    border-bottom: 1px solid #dee2e6;
+    width: 100%;
+}
+
+.modal .divider .res-data-button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
