@@ -1,6 +1,6 @@
 <!--Modal-->
 <div class="modal modalData" id="Modalpopup" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centerd">
+  <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title">Creando el popup</h5>
@@ -23,7 +23,7 @@
             <div class="divider">
                 <div class="line"></div>
                     <div class="res-data-button">
-                        <a href="#" type="button" class="btn btn-primary" id="btnGuardar">Guardar</a>
+                        <a href="#" type="button" class="btn btn-primary" id="btnguardar">Guardar</a>
                 </div>
             </div>
         </form>
@@ -31,4 +31,3 @@
       </div>
     </div>
   </div>
-</div>
